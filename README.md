@@ -1,3 +1,9 @@
+
+<a href="https://nbviewer.org/github/sze-info/Lecture_ADSE/tree/master/"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width=120/></a>
+
+<a href="https://mybinder.org/v2/gh/sze-info/Lecture_ADSE/HEAD"><img src="https://static.mybinder.org/badge.svg" width=120/></a>
+
+
 # Lecture: Autonomous Driving Software Engineering
 This is the official repository of the lecture "Autonomous Driving Software Engineering" by the Institute of Automotive Technology (Prof. Dr.-Ing. Lienkamp), TUM. You find the code from all the practice sessions in the related subdirectories. The following figure outlines the structure of the repository, which is based on the lecture's chapters:
 
